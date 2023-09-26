@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\bin\Debug\net6.0\BB206Algorythm.exe
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\bin\Debug\net6.0\BB206Algorythm.deps.json
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\bin\Debug\net6.0\BB206Algorythm.runtimeconfig.json
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\bin\Debug\net6.0\BB206Algorythm.dll
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\bin\Debug\net6.0\BB206Algorythm.pdb
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.AssemblyInfo.cs
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.dll
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\refint\BB206Algorythm.dll
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.pdb
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\BB206Algorythm.genruntimeconfig.cache
+C:\Users\asus\Desktop\BB206Algorythm\BB206Algorythm\obj\Debug\net6.0\ref\BB206Algorythm.dll
